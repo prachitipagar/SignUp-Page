@@ -1,0 +1,67 @@
+body{
+    background-color: Cornsilk;
+}
+#parents{
+    border: 1px solid;
+    height: 500px;
+    width: 450px;
+    margin: 100px auto;
+    border-radius: 20px 20px 20px 20px;
+    background-image: linear-gradient(skyblue,mediumaquamarine);
+}
+#child1{
+    color: white;
+    text-align: center;
+
+}
+#child2{
+    margin-top: 40px;
+}
+#name{
+    margin-left: 20px;
+    height: 30px;
+    width: 180px;
+    border-radius: 10px 10px;
+    border: none;
+}
+#lname{
+    margin-left: 20px;
+    height: 30px;
+    width: 187px;
+    border-radius: 10px 10px;
+    border: none;
+
+}
+
+.inp{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.inp3{
+    height: 30px;
+    width: 400px;
+    border-radius: 10px 10px;
+    border: none;
+}
+#child6{
+    margin-top: 20px;
+    margin-left: 20px;
+    
+}
+#button2{
+    margin-left: 25px;
+    height: 40px;
+    width: 400px;
+    border-radius: 20px 20px;
+    margin-top: 20px;
+    background-color: CadetBlue;
+    border: none;
+}
+#last1{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+#last2{
+    margin-top: 20px;
+    margin-left: 110px;
+}

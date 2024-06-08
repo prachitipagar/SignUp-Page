@@ -1,0 +1,50 @@
+#parent{
+    border: 1px solid;
+    height: 350px;
+    width: 300px;
+    margin: 100px auto;
+    border-radius: 20px 20px 20px 20px;
+    background-image: linear-gradient(crimson,violet);
+}
+#parent1{
+    color: white;
+    text-align: center;
+    
+}
+#parent2{
+    
+    margin-left: 30px;
+    color: white;
+}
+
+#parent4{
+    margin-left: 30px;
+    color: white;
+}
+.inp1{
+    margin-left: 30px;
+    border-radius: 10px 10px;
+    width: 240px;
+    height: 20px;
+    border: none;
+}
+#parent6{
+    
+    margin-top: 30px;
+
+}
+#child1{
+    margin-top: 20px;
+    margin-left: 25px;
+    color: white;
+}
+#button1{
+    margin-left: 25px;
+    height: 30px;
+    width: 250px;
+    border-radius: 50px 50px;
+    background-color: crimson;
+    color: white;
+    font-size: larger;
+    border: none;
+}
